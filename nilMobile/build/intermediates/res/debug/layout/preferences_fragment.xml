@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/txtCampus1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="36dp"
+        android:text="@string/setcampus_lbl" />
+
+    <Spinner
+        android:id="@+id/campusSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtCampus1"
+        android:layout_below="@+id/txtCampus1"
+        android:layout_marginTop="14dp"
+        android:entries="@array/campus_array"
+        android:prompt="@string/campus_prompt" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:layout_below="@+id/campusSpinner"
+        android:layout_marginTop="5dp"
+        android:background="#929698" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtCampus1"
+        android:layout_below="@+id/view1"
+        android:layout_marginTop="30dp"
+        android:text="@string/setoccupation_lbl" />
+
+    <Spinner
+        android:id="@+id/occupationSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView5"
+        android:layout_below="@+id/textView5"
+        android:layout_marginTop="14dp"
+        android:entries="@array/occupation_array"
+        android:gravity="center_vertical"
+        android:prompt="@string/occupation_prompt" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:layout_below="@+id/occupationSpinner"
+        android:layout_marginTop="5dp"
+        android:background="#929698" />
+
+    <TextView
+        android:id="@+id/lblGrade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/occupationSpinner"
+        android:layout_below="@+id/view2"
+        android:layout_marginTop="30dp"
+        android:text="@string/grade_lbl"
+        android:visibility="gone" />
+
+    <Spinner
+        android:id="@+id/gradeSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="65dip"
+        android:layout_alignLeft="@+id/lblGrade"
+        android:layout_below="@+id/lblGrade"
+        android:layout_marginTop="14dp"
+        android:entries="@array/grade_array"
+        android:prompt="@string/grade_prompt"
+        android:visibility="gone" />
+    
+    <EditText
+        android:id="@+id/txtChildName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/view2"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp"
+        android:ems="10"
+        android:hint="@string/cname_lbl"
+        android:inputType="textPersonName"
+        android:visibility="gone" />
+
+</RelativeLayout><!-- From: file:/G:/NilMobile2/nilMobile/src/main/res/layout/preferences_fragment.xml -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#949090</color>
+    <color name="list_background">#dddddd</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#ddd</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#f6f3f3</color>
+    <color name="text_color_default">#00000C</color>
+    <color name="text_color_inverse">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="list_row_default_bg">#ffffff</color>
+    <color name="list_row_pressed_bg">#008cef</color>
+    <color name="list_row_selected_bg">#86d3f6</color>
+   
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <color name="light_blue">@android:color/holo_blue_light</color>
+
+</resources>

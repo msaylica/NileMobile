@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/txtLname"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtFname"
+        android:layout_alignBottom="@+id/txtFname"
+        android:layout_toRightOf="@+id/txtFname"
+        android:ems="10"
+        android:hint="@string/lname_lbl"
+        android:inputType="textPersonName" >
+
+        
+    </EditText>
+
+    <Spinner
+        android:id="@+id/gradeSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="65dip"
+        android:layout_below="@+id/txtEmail"
+        android:layout_toRightOf="@+id/lblGrade"
+        android:entries="@array/grade_array"
+        android:prompt="@string/grade_prompt"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/txtChildName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txtEmail"
+        android:layout_alignLeft="@+id/txtEmail"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:hint="@string/cname_lbl"
+        android:inputType="textPersonName"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/txtSkip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/txtLname"
+        android:layout_marginBottom="22dp"
+        android:clickable="true"
+        android:drawableRight="@drawable/skip"
+        android:gravity="center_vertical"
+        android:text="@string/skip"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="20dp"
+        android:text="@string/reg_lbl" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/txtSkip"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dp"
+        android:text="@string/fineprint"
+        android:textSize="10sp" />
+
+    <EditText
+        android:id="@+id/txtEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnRegister"
+        android:layout_below="@+id/txtLname"
+        android:layout_marginBottom="21dp"
+        android:layout_marginTop="21dp"
+        android:ems="10"
+        android:hint="@string/email_lbl"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/txtFname"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtEmail"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="62dp"
+        android:ems="10"
+        android:hint="@string/fname_lbl"
+        android:inputType="textPersonName" >
+        <requestFocus />
+        </EditText>
+
+    <TextView
+        android:id="@+id/lblGrade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtEmail"
+        android:layout_below="@+id/txtEmail"
+        android:text="@string/grade_lbl"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/txtSpecify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtEmail"
+        android:layout_below="@+id/txtEmail"
+        android:ems="10"
+        android:hint="@string/specify_lbl"
+        android:inputType="textPersonName"
+        android:visibility="gone" >
+
+        <requestFocus />
+    </EditText>
+
+</RelativeLayout><!-- From: file:/G:/NilMobile2/nilMobile/src/main/res/layout/activity_register.xml -->

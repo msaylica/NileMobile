@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>News</item>
+        <item>Database</item>
+        <item>Calendar</item>
+        <item>Change Campus</item>
+        <item>About Us</item>
+        <item>Contact Us</item>
+        <item>Share App</item>
+        <item>Preferences</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_news</item>
+        <item>@drawable/ic_database</item>
+        <item>@drawable/ic_calendar</item>
+        <item>@drawable/ic_switch</item>
+        <item>@drawable/ic_aboutus</item>
+        <item>@drawable/ic_contact</item>
+        <item>@drawable/ic_share</item>
+        <item>@drawable/ic_preferences</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <!-- Regigstration Form -->
+
+
+    <!-- Labels -->
+
+    <string name="app_name">Nile Mobile</string>
+    <string name="boys_btn">Plunkett Campus</string>
+    <string name="girls_btn">Blue Haven Campus</string>
+    <string name="elementary_btn">Elementary Civic Rd. Campus </string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Server.</string>
+    <string name="server_registered">Successfully added device!</string>
+    <string name="server_unregistered">Successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="menu_item_clear_memory_cache">Clear memory cache</string>
+    <string name="menu_item_clear_disc_cache">Clear disc cache</string>
+    <string name="menu_item_pause_on_scroll">Pause on scroll</string>
+    <string name="menu_item_pause_on_fling">Pause on fling</string>
+    <string name="descr_image">Image</string>
+    <string name="calendar_desc">Academic Calendar</string>
+    <string name="ac_name_image_grid">Image Grid Example</string>
+    <string name="ac_name_image_list">Image List Example</string>
+    <string name="ac_name_image_pager">Image Pager Example</string>
+    <string name="ac_name_image_gallery">Image Gallery Example</string>
+    <string name="button_image_list">ListView</string>
+    <string name="button_image_grid">GridView</string>
+    <string name="button_image_pager">ViewPager</string>
+    <string name="button_image_gallery">Gallery</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact</string>
+    <string name="btn_share_app">Share This App</string>
+    <string name="btn_refresh">Refresh</string>
+    <string name="btn_share_item">Share Item</string>
+    <string name="txt_contact_us">Contact Us</string>
+    <string name="calendar">Calendar</string>
+    <string name="front_page">Campus Menu</string>
+    <string name="database">Database</string>
+    <string name="choose_campus">Choose Campus</string>
+    <string name="news">News</string>
+    <string name="btn_news">News</string>
+    <string name="btn_calendar">Calendar</string>
+    <string name="btn_database">Database</string>
+    <string name="btn_notices">Important Notices</string>
+    <string name="btn_contact">Contact</string>
+    <string name="bh_map">Bluehaven Location Map</string>
+    <string name="bh_address">5 Blue Haven Crst.\nNorth York ON \nM9M 1W5</string>
+    <string name="bh_tel">+1 647-444-5267</string>
+    <string name="bh_tel2">+1 416-285-9551</string>
+    <string name="bh_email">info@nileacademy.ca</string>
+    <string name="bh_fax">Fax:+1 416-285-0108</string>
+    <string name="pl_map">Plunkett Location Map</string>
+    <string name="pl_address">135 Plunkett Rd. \n North York, \n ON M9L 2J7</string>
+    <string name="pl_tel">+1 416-285-0115</string>
+    <string name="pl_tel2">+1 416-285-9551</string>
+    <string name="pl_email">info@nileacademy.ca</string>
+    <string name="pl_fax">Fax:+1 416-285-0108</string>
+    <!-- Labels -->
+    <string name="label_activity_examples">Activity Examples</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="page_about_us_title">About Nile Academy</string>
+    <string name="page_about_us">Nile Academy is established in 2005 to meet the needs for a better education and a brighter future for our children. Nile Academy is a private school with experienced staff determined to maximize students’ opportunities for success. The school has built its reputation on catering for individual needs and diversity. We welcome families of all beliefs and cultural backgrounds.
+We believe that education is not merely a question of classroom instruction. For a child, it is important to learn how to listen to and interact with others. This is a skill that must be acquired and practiced on a daily basis. Social learning outside the classroom results in positive changes in classroom performance and all extra-curricular activities are planned with this goal in mind.     </string>
+    <string name="grade_prompt">Choose your grade</string>
+    <string name="next">NEXT</string>
+    <string name="preference_txt">Change Your Preferences</string>
+
+    <string-array name="grade_array">
+        <item>Please Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string name="setoccupation_lbl">Reset Occupation to:</string>
+    <string name="occupation_prompt">Select Your Occupation</string>
+
+    <string-array name="occupation_array">
+        <item>Please Select</item>
+        <item>Student</item>
+        <item>Parent</item>
+        <item>Staff</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="setcampus_lbl">Reset Campus to:</string>
+    <string name="campus_prompt">Choose your campus</string>
+    <string name="fineprint">*When you register your device, we will be able to send you notifications about important information.</string>
+	<string name="skip">SKIP</string>
+    <string-array name="campus_array">
+        <item>Please Select</item>
+        <item>Plunkett</item>
+        <item>Bluehaven</item>
+        <item>Both</item>
+    </string-array>
+    
+
+    <string name="title_activity_initial">Initial Activity</string>
+    <string name="title_activity_notice">Notices</string>
+    <string name="fname_lbl">First Name</string>
+    <string name="lname_lbl">Last Name</string>
+    <string name="email_lbl">Email</string>
+    <string name="pos_lbl">Choose Occupation:</string>
+    <string name="grade_lbl">Select Your Grade:</string>
+    <string name="reg_lbl">Register</string>
+    <string name="campus_lbl">Choose Campus:</string>
+    <string name="cname_lbl">Your Child\'s Name</string>
+    <string name="specify_lbl">Please Specify</string>
+    <string name="form_lbl">Please complete the form below.</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_deneme">DenemeActivity</string>
+    <string name="loading_news">Loading Posts Please Wait!</string>
+    <string name="loading_details">Loading Content, Please Wait!</string>
+    <string name="loading">Loading...</string>
+    <string name="wait">Please Wait!</string>
+    <string name="title_activity_campus_select">CampusSelect</string>
+    <string name="title_activity_occupation_select">OccupationSelect</string>
+    <string name="title_activity_grade_select">GradeSelect</string>
+
+</resources>

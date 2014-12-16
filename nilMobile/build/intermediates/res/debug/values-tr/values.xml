@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/G:/NilMobile2/nilMobile/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string-array name="campus_array">
+        <item>Lütfen Seçiniz</item>
+        <item>Plunkett</item>
+        <item>Bluehaven</item>
+        <item>Her ikisi</item>
+    </string-array>
+    <string-array name="grade_array">
+        <item>Lütfen Seçiniz</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_news</item>
+        <item>@drawable/ic_database</item>
+        <item>@drawable/ic_calendar</item>
+        <item>@drawable/ic_switch</item>
+        <item>@drawable/ic_aboutus</item>
+        <item>@drawable/ic_contact</item>
+        <item>@drawable/ic_share</item>
+        <item>@drawable/ic_preferences</item>
+    </array>
+    <string-array name="nav_drawer_items">
+        <item>Haberler</item>
+        <item>Öğrenci Veritabanı</item>
+        <item>Takvim</item>
+        <item>Kampüs Değiştir</item>
+        <item>Hakkımızda</item>
+        <item>Bize Ulaşın</item>
+        <item>Paylaş</item>
+        <item>Ayarlar</item>
+    </string-array>
+    <string-array name="occupation_array">
+        <item>Lütfen Seçiniz</item>
+        <item>Öğrenci</item>
+        <item>Veli</item>
+        <item>Öğretmen</item>
+        <item>Personel</item>
+        <item>Diğer</item>
+    </string-array>
+    <!-- From: file:/G:/NilMobile2/nilMobile/build/intermediates/exploded-aar/NilMobile2/androidsupportv7appcompat/unspecified/res/values-tr/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tamamlandı"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <!-- From: file:/G:/NilMobile2/nilMobile/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="about_us">Hakkımızda</string>
+    <string name="ac_name_image_gallery">Image Gallery Example</string>
+    <string name="ac_name_image_grid">Image Grid Example</string>
+    <string name="ac_name_image_list">Image List Example</string>
+    <string name="ac_name_image_pager">Image Pager Example</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="already_registered">Cihaz zaten sunucuda kayıtlı.</string>
+    <string name="app_name">Nile Mobile</string>
+    <string name="bh_address">5 Blue Haven Crst.\nNorth York ON \nM9M 1W5</string>
+    <string name="bh_email">info@nileacademy.ca</string>
+    <string name="bh_fax">Fax:+1 416-285-0108</string>
+    <string name="bh_map">Bluehaven Konum Haritası</string>
+    <string name="bh_tel">+1 647-444-5267</string>
+    <string name="bh_tel2">+1 416-285-9551</string>
+    <string name="boys_btn">Plunkett Kampüs</string>
+    <string name="btn_calendar">Takvim</string>
+    <string name="btn_contact">İletişim</string>
+    <string name="btn_database">Öğrenci Veritabanı</string>
+    <string name="btn_news">Haberler</string>
+    <string name="btn_notices">Önemli Duyrular</string>
+    <string name="btn_refresh">Yenile</string>
+    <string name="btn_share_app">Bu Uygulamayı Paylaş</string>
+    <string name="btn_share_item">Paylaş</string>
+    <string name="button_image_gallery">Gallery</string>
+    <string name="button_image_grid">GridView</string>
+    <string name="button_image_list">ListView</string>
+    <string name="button_image_pager">ViewPager</string>
+    <string name="calendar">Takvim</string>
+    <string name="calendar_desc">Akademik Takvim</string>
+    <string name="campus_lbl">Kampüs Seç:</string>
+    <string name="campus_prompt">Kampüsünüzü Seçin</string>
+    <string name="choose_campus">Kampüs Seçin</string>
+    <string name="cname_lbl">Çocuğunuzun Adı</string>
+    <string name="contact_us">İletişim</string>
+    <string name="database">Öğrenci Veritabanı</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="descr_image">Image</string>
+    <string name="email_lbl">E-posta</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="fineprint">*Cihazınızı kayıt yaptığınızda , önemli bilgileri bildirim olarak almanız mümkün olacaktır.</string>
+    <string name="fname_lbl">İsim</string>
+    <string name="form_lbl">Lütfen aşağıdakiformu doldurunuz.</string>
+    <string name="front_page">Menü</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="gcm_error">GCM\'den: hata (%1$s).</string>
+    <string name="gcm_message">GCM\'den : mesajınız var!</string>
+    <string name="gcm_recoverable_error">GCM\'den: kurtarılabilir hata (%1$s).</string>
+    <string name="gcm_registered">GCM\'den : aygıt başarıyla kayıtlandı.</string>
+    <string name="gcm_unregistered">GCM\'den : aygıt başarıyla kayıdan silindi!</string>
+    <string name="girls_btn">Blue Haven Kampüs</string>
+    <string name="grade_lbl">Sınıf Seçiniz:</string>
+    <string name="grade_prompt">Kaçıncı Sınıfsın:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_activity_examples">Etkinlik örnekleri</string>
+    <string name="lname_lbl">Soyadı</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="loading_details">Yükleniyor, Lütfen Bekleyin!</string>
+    <string name="loading_news">Yükleniyor, Lütfen Bekleyin!</string>
+    <string name="menu_about_us">Hakkımızda</string>
+    <string name="menu_item_clear_disc_cache">Clear disc cache</string>
+    <string name="menu_item_clear_memory_cache">Clear memory cache</string>
+    <string name="menu_item_pause_on_fling">Pause on fling</string>
+    <string name="menu_item_pause_on_scroll">Pause on scroll</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="news">Haberler</string>
+    <string name="next">İLERİ</string>
+    <string name="occupation_prompt">Sen bir</string>
+    <string name="options_clear">Temizle</string>
+    <string name="options_exit">Çıkış</string>
+    <string name="options_register">Kayıtlan</string>
+    <string name="options_unregister">Kaydını Sil</string>
+    <string name="page_about_us">Nil Akademi, daha iyi bir eğitim ve çocuklarımıza daha parlak bir gelecek hazirlamak
+        için ihtiyaçlarını karşılamak üzere 2005 yılında kurulmuştur. Nil Akademi, başarı için öğrencilere geniş imkanlar 
+        sunmayı kendisine hedef edinmiş kadrosu ile özel bir okuldur. Okulumuz bireysel ihtiyaçları karşılamayı ve 
+        çeşitliliği ön plana almıştır. Nil Akademi din, dil, ırk ve millet ayrımı yapmadan bütün kesimlere eğitim imkanı 
+        sunmayı kendisine ilke edinmiştir. Biz eğitimi sadece sınıfta anlatılan dersten ibaret görmüyoruz. Bir çocuk için, 
+        nasıl dinleyeceğini ve diğerleri ile nasıl nasıl iletişim kuracağını öğrenmenin de en az o kadar önemli olduğuna 
+        inanıyoruz. Ve bu edinilen becerilerin de günlük bazda uygulanması gerektiğini düşünüyoruz. Sosyal etkinliklerin de 
+        sınıf performansını olumlu etkilediğini görüyor ve bütün ders dışı etkinlikleri bu amaca uygun olacak şekilde 
+        planlıyoruz.</string>
+    <string name="page_about_us_title">Nile Academy Hakkında</string>
+    <string name="pl_address">135 Plunkett Rd. \n North York, \n ON M9L 2J7</string>
+    <string name="pl_email">info@nileacademy.ca</string>
+    <string name="pl_fax">Fax:+1 416-285-0108</string>
+    <string name="pl_map">Plunkett Konum Haritası</string>
+    <string name="pl_tel">+1 416-285-0115</string>
+    <string name="pl_tel2">+1 416-285-9551</string>
+    <string name="pos_lbl">Sen Bir:</string>
+    <string name="preference_txt">Change Your Preferences</string>
+    <string name="reg_lbl">Kayıtlan</string>
+    <string name="server_register_error">Cihazınız kayıt %1$d denemeden sonra yaptıralamamıştır.</string>
+    <string name="server_registered">Cihazınız başarıyla eklendi!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="server_unregistered">Cihazınız başarıyla kaldırıldı!</string>
+    <string name="setcampus_lbl">Kampüsünüzü Seçin:</string>
+    <string name="setoccupation_lbl">Sen bir:</string>
+    <string name="skip">ATLA</string>
+    <string name="specify_lbl">Lütfen belirtin</string>
+    <string name="title_activity_initial">Initial Activity</string>
+    <string name="title_activity_main">Push Bildirimleri</string>
+    <string name="title_activity_notice">Duyrular</string>
+    <string name="txt_contact_us">Bize Ulaşın</string>
+    <string name="wait">Lütfen Bekleyin!</string>
+</resources>
