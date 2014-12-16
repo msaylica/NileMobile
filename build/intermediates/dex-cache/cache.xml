@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\NilMobile2\nilMobile\libs\gesture-imageview.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8ae4b5b954bd5554ef34bb3efed9ad8f7731ee38">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\gesture-imageview-bfc4fbd7f1dbb47df5aa7fba29c5909b7c24ef95.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-9b15c35488bcf04ccce4bf22be99920b443a6542.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\commons-logging-1.2-682bbec8ce4a0444a98e636665ec5a71728c6175.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\build\intermediates\exploded-aar\NilMobile2\androidsupportv7appcompat\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\android-support-v4-62789d1893cc17613f049a8834fa8fb29341295e.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\libs\library.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c5fef9ed26c5e44b15891eff0e96f3c72643eaba">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\library-21d8497c67a6f17ee84b028af56488df24d21355.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\libs\jsoup-1.6.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3ed782721068a6f6a4a537a20fdf7096686c4742">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\jsoup-1.6.2-b399b93e53990482876fe0725ca4e109fad7e899.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\libs\gcm.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\gcm-94b2d3d4bdf5ba341e11a2bd8b55b33b39fc5810.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\libs\gradle-wrapper.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e614e3b2edc63a9cc423437dea087c91962254f5">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\gradle-wrapper-280b73b35a5079ae3891b81b80885d1c9d4e4cc1.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\libs\imageviewtouch.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="df066248e7361b0debef31df80a17ebcd5ed3096">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\imageviewtouch-7d817c2e51175de195844eebb15be0ab9fe1505c.jar" />
+    </item>
+    <item
+        jar="G:\NilMobile2\nilMobile\build\intermediates\exploded-aar\NilMobile2\androidsupportv7appcompat\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8ef04254d1af25b945a379083ef54a29239be2a3">
+        <dex dex="G:\NilMobile2\nilMobile\build\intermediates\pre-dexed\debug\classes-eb722ce28890b9f8e074f85aefe275651414121d.jar" />
+    </item>
+
+</items>
