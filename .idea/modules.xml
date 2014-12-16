@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NilMobile2.iml" filepath="$PROJECT_DIR$/NilMobile2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidsupportv7appcompat/androidsupportv7appcompat.iml" filepath="$PROJECT_DIR$/androidsupportv7appcompat/androidsupportv7appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nilMobile/nilMobile.iml" filepath="$PROJECT_DIR$/nilMobile/nilMobile.iml" />
+    </modules>
+  </component>
+</project>
+
